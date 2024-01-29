@@ -17,6 +17,9 @@ function App() {
         <li>
           <a href="https://www.tiktok.com/@gatonegrobarber?_t=8j92aOBttPa&_r=1" target="_blank" rel="noopener noreferrer" className='link'>TikTok</a>
         </li>
+        <li>
+          <a href="https://wa.me/7291266906" target="_blank" rel="noopener noreferrer" className='link'>Citas</a>
+        </li>
       </ul>
       <div className="footer">
         <small>&copy; Gato Negro Barber 💈🐈‍⬛</small>
